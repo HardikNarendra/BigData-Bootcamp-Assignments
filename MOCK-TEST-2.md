@@ -76,6 +76,7 @@ hadoop jar hadoop-streaming-2.4.0.jar -files mapper.py,reducer.py -mapper mapper
 ## 3) Write a Spark program to count the number of occurrences of each word in a given text file.<br>
 Ans.<br> 
 Note for this program i have shared a seperate jupyter notebook link.
+https://github.com/HardikNarendra/BigData-Bootcamp-Assignments/blob/main/MOCK-TEST-2-Spark-wordcount.ipynb
 
 
 
